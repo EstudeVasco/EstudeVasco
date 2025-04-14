@@ -1,0 +1,4 @@
+Gols
+Assistências
+Títulos
+Histórias
