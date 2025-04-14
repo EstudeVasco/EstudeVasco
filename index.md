@@ -6,8 +6,9 @@ Aqui você encontra dados completos e organizados sobre a história do Gigante d
 
 ## Seções do site:
 
-- [Goleadores Históricos](goleadores.md)
-- [Líderes em Assistências](assistencias.md)
-- [Todos os Jogos do Vasco](jogos.md)
+- [Futebol](Futebol.md)
+- [Atletas](atletas.md)
+- [Feitos históricos](feitos.md)
+- [Pesquisa de dados](pesquisa.md)
 
 > Site em construção permanente. Atualizado com carinho por vascaínos para vascaínos. 💢
