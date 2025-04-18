@@ -1,3 +1,9 @@
+---
+layout: default
+---
+
+<link rel="stylesheet" href="/assets/css/style.css">
+
 # Estude Vasco
 
 Bem-vindo ao principal portal de história e estatísticas do Club de Regatas Vasco da Gama!
