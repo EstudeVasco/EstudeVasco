@@ -1,0 +1,12 @@
+body {
+  background-color: #000000; /* fundo preto */
+  color: #ffffff; /* texto branco */
+}
+
+a {
+  color: #cc0000; /* links vermelhos */
+}
+
+h1, h2, h3 {
+  color: #cc0000;
+}
